@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VividCamPage/static/css/main.876af0aa.css",
-    "main.js": "/VividCamPage/static/js/main.b480e16a.js",
+    "main.js": "/VividCamPage/static/js/main.ec754e29.js",
     "static/js/787.71e672d5.chunk.js": "/VividCamPage/static/js/787.71e672d5.chunk.js",
     "static/media/3-rotate-0-ourscog.mp4": "/VividCamPage/static/media/3-rotate-0-ourscog.375f0c8535da0c7c0556.mp4",
     "static/media/method-01.png": "/VividCamPage/static/media/method-01.9bac302a3764bb80a67a.png",
@@ -55,6 +55,7 @@
     "static/media/3-rotate-0-ac3d.mp4": "/VividCamPage/static/media/3-rotate-0-ac3d.463d0933851c3ff686e4.mp4",
     "static/media/3-rotate-0-cog.mp4": "/VividCamPage/static/media/3-rotate-0-cog.cef5e2282cbdf793afe9.mp4",
     "static/media/2_dolly_zoom.mp4": "/VividCamPage/static/media/2_dolly_zoom.fec16d429235618627bb.mp4",
+    "static/media/dolly_zoom.mp4": "/VividCamPage/static/media/dolly_zoom.fec16d429235618627bb.mp4",
     "static/media/2-switch-0-cameractrl.mp4": "/VividCamPage/static/media/2-switch-0-cameractrl.f07910bb43ca3c21ee0a.mp4",
     "static/media/2_pan_right.mp4": "/VividCamPage/static/media/2_pan_right.633336a688a0f486e98f.mp4",
     "static/media/seek4.mp4": "/VividCamPage/static/media/seek4.1f3a346c4eb97aa4d9f7.mp4",
@@ -84,11 +85,11 @@
     "static/media/outline-icons.woff2": "/VividCamPage/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/VividCamPage/index.html",
     "main.876af0aa.css.map": "/VividCamPage/static/css/main.876af0aa.css.map",
-    "main.b480e16a.js.map": "/VividCamPage/static/js/main.b480e16a.js.map",
+    "main.ec754e29.js.map": "/VividCamPage/static/js/main.ec754e29.js.map",
     "787.71e672d5.chunk.js.map": "/VividCamPage/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.876af0aa.css",
-    "static/js/main.b480e16a.js"
+    "static/js/main.ec754e29.js"
   ]
 }
