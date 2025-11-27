@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/VividCamPage/static/css/main.876af0aa.css",
-    "main.js": "/VividCamPage/static/js/main.064fbb99.js",
+    "main.js": "/VividCamPage/static/js/main.2cc1a750.js",
     "static/js/787.71e672d5.chunk.js": "/VividCamPage/static/js/787.71e672d5.chunk.js",
+    "static/media/switch-wan.mp4": "/VividCamPage/static/media/switch-wan.6e0a4b2c4a806998ddf1.mp4",
     "static/media/3-rotate-0-ourscog.mp4": "/VividCamPage/static/media/3-rotate-0-ourscog.375f0c8535da0c7c0556.mp4",
     "static/media/method-01.png": "/VividCamPage/static/media/method-01.9bac302a3764bb80a67a.png",
     "static/media/fwd-left01.mp4": "/VividCamPage/static/media/fwd-left01.421be9150e1b4395823f.mp4",
+    "static/media/explosive-wan.mp4": "/VividCamPage/static/media/explosive-wan.e4b3d5ef6d3bfaccf907.mp4",
     "static/media/fwd-right02.mp4": "/VividCamPage/static/media/fwd-right02.8b90cf0461caf94755e5.mp4",
     "static/media/seek3.mp4": "/VividCamPage/static/media/seek3.df5a2cbbbb6d897d1a4b.mp4",
     "static/media/1-explosion-0-ourscog.mp4": "/VividCamPage/static/media/1-explosion-0-ourscog.6ecac9b5d7fb23a8745e.mp4",
@@ -41,6 +43,7 @@
     "static/media/brand-icons.svg": "/VividCamPage/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/0-seek-0-ac3d.mp4": "/VividCamPage/static/media/0-seek-0-ac3d.8d0af7b1a30712670d34.mp4",
     "static/media/fwd-right01.mp4": "/VividCamPage/static/media/fwd-right01.29025dcb16c551f78cd1.mp4",
+    "static/media/seek-cartoon.mp4": "/VividCamPage/static/media/seek-cartoon.e405cbee4605831df479.mp4",
     "static/media/icons.svg": "/VividCamPage/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/3-rotate-0-oursac.mp4": "/VividCamPage/static/media/3-rotate-0-oursac.77664934c7db56161a3c.mp4",
     "static/media/0-seek-0-ourscog.mp4": "/VividCamPage/static/media/0-seek-0-ourscog.7223299e18b38ef3d073.mp4",
@@ -49,13 +52,16 @@
     "static/media/0-seek-0-cog.mp4": "/VividCamPage/static/media/0-seek-0-cog.eccc9172bc54d57f3e8a.mp4",
     "static/media/simple-2.mp4": "/VividCamPage/static/media/simple-2.ac7f8beb9676aa8c57c2.mp4",
     "static/media/switch-track1.mp4": "/VividCamPage/static/media/switch-track1.a3b109878c15f1e5abb9.mp4",
+    "static/media/seek-wan.mp4": "/VividCamPage/static/media/seek-wan.13c51cb6f02bda42405d.mp4",
     "static/media/1_pan_right.mp4": "/VividCamPage/static/media/1_pan_right.eb96cbf7a951a00077b6.mp4",
     "static/media/seek2.mp4": "/VividCamPage/static/media/seek2.bafe1d8ecd30ee08a1e5.mp4",
     "static/media/1_dolly_zoom.mp4": "/VividCamPage/static/media/1_dolly_zoom.08663044ea67e64da18c.mp4",
     "static/media/3-rotate-0-ac3d.mp4": "/VividCamPage/static/media/3-rotate-0-ac3d.463d0933851c3ff686e4.mp4",
+    "static/media/switch-cartoon.mp4": "/VividCamPage/static/media/switch-cartoon.54ff5317685307459161.mp4",
     "static/media/3-rotate-0-cog.mp4": "/VividCamPage/static/media/3-rotate-0-cog.cef5e2282cbdf793afe9.mp4",
     "static/media/2_dolly_zoom.mp4": "/VividCamPage/static/media/2_dolly_zoom.fec16d429235618627bb.mp4",
     "static/media/dolly_zoom.mp4": "/VividCamPage/static/media/dolly_zoom.fec16d429235618627bb.mp4",
+    "static/media/rotate-cartoon.mp4": "/VividCamPage/static/media/rotate-cartoon.b8c0551246fe72b05be3.mp4",
     "static/media/2-switch-0-cameractrl.mp4": "/VividCamPage/static/media/2-switch-0-cameractrl.f07910bb43ca3c21ee0a.mp4",
     "static/media/2_pan_right.mp4": "/VividCamPage/static/media/2_pan_right.633336a688a0f486e98f.mp4",
     "static/media/seek4.mp4": "/VividCamPage/static/media/seek4.1f3a346c4eb97aa4d9f7.mp4",
@@ -85,11 +91,11 @@
     "static/media/outline-icons.woff2": "/VividCamPage/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/VividCamPage/index.html",
     "main.876af0aa.css.map": "/VividCamPage/static/css/main.876af0aa.css.map",
-    "main.064fbb99.js.map": "/VividCamPage/static/js/main.064fbb99.js.map",
+    "main.2cc1a750.js.map": "/VividCamPage/static/js/main.2cc1a750.js.map",
     "787.71e672d5.chunk.js.map": "/VividCamPage/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.876af0aa.css",
-    "static/js/main.064fbb99.js"
+    "static/js/main.2cc1a750.js"
   ]
 }
