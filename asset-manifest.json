@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VividCamPage/static/css/main.876af0aa.css",
-    "main.js": "/VividCamPage/static/js/main.095010f4.js",
+    "main.js": "/VividCamPage/static/js/main.1d61cf86.js",
     "static/js/787.71e672d5.chunk.js": "/VividCamPage/static/js/787.71e672d5.chunk.js",
     "static/media/switch-wan.mp4": "/VividCamPage/static/media/switch-wan.6e0a4b2c4a806998ddf1.mp4",
     "static/media/3-rotate-0-ourscog.mp4": "/VividCamPage/static/media/3-rotate-0-ourscog.375f0c8535da0c7c0556.mp4",
     "static/media/method-01.png": "/VividCamPage/static/media/method-01.9bac302a3764bb80a67a.png",
     "static/media/fwd-left01.mp4": "/VividCamPage/static/media/fwd-left01.421be9150e1b4395823f.mp4",
     "static/media/explosive-wan.mp4": "/VividCamPage/static/media/explosive-wan.e4b3d5ef6d3bfaccf907.mp4",
-    "static/media/main_figure.png": "/VividCamPage/static/media/main_figure.fe326eb3cb37ec57f719.png",
+    "static/media/main_figure.png": "/VividCamPage/static/media/main_figure.3e2e246cff470a3c3db8.png",
     "static/media/fwd-right02.mp4": "/VividCamPage/static/media/fwd-right02.8b90cf0461caf94755e5.mp4",
     "static/media/seek3.mp4": "/VividCamPage/static/media/seek3.df5a2cbbbb6d897d1a4b.mp4",
     "static/media/1-explosion-0-ourscog.mp4": "/VividCamPage/static/media/1-explosion-0-ourscog.6ecac9b5d7fb23a8745e.mp4",
@@ -94,11 +94,11 @@
     "static/media/outline-icons.woff2": "/VividCamPage/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/VividCamPage/index.html",
     "main.876af0aa.css.map": "/VividCamPage/static/css/main.876af0aa.css.map",
-    "main.095010f4.js.map": "/VividCamPage/static/js/main.095010f4.js.map",
+    "main.1d61cf86.js.map": "/VividCamPage/static/js/main.1d61cf86.js.map",
     "787.71e672d5.chunk.js.map": "/VividCamPage/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.876af0aa.css",
-    "static/js/main.095010f4.js"
+    "static/js/main.1d61cf86.js"
   ]
 }
